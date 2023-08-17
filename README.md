@@ -7,7 +7,7 @@ It all started with a Wordpress website and a gradually increasing curiousity ab
 With a background in Learning and Development, I'm excited to be in a field with endless topics to learn and explore!
 
 <div align="center">
-	<code><img width="50" src="[https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png](https://user-content.gitlab-static.net/0105f9ccd55b48e7a945d2672c6c49cce40035a8/68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f32353138313531372f3138333839303539382d31396130616332642d653838612d343030352d613864662d3165653336373832666465312e706e67)" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
